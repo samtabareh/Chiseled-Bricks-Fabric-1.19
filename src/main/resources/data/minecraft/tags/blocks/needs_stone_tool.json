@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "chiseledbricks:chiseled_bricks",
+    "chiseledbricks:chiseled_end_stone_bricks",
+    "chiseledbricks:chiseled_mudbricks",
+    "chiseledbricks:chiseled_prismarine_bricks",
+    "chiseledbricks:chiseled_purpur_bricks",
+    "chiseledbricks:chiseled_red_nether_bricks"
+  ]
+}
