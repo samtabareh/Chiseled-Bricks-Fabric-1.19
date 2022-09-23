@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "chiseledbricks:block/grass_slab"
+    },
+    "type=double": {
+      "model": "chiseledbricks:block/grass_block"
+    },
+    "type=top": {
+      "model": "chiseledbricks:block/grass_slab_top"
+    }
+  }
+}

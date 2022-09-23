@@ -4,5 +4,17 @@
   "block.chiseledbricks.chiseled_prismarine_bricks": "Chiseled Prismarine Bricks",
   "block.chiseledbricks.chiseled_end_stone_bricks": "Chiseled End Stone Bricks",
   "block.chiseledbricks.chiseled_mudbricks": "Chiseled Mudbricks",
-  "block.chiseledbricks.chiseled_bricks": "Chiseled Bricks"
+  "block.chiseledbricks.chiseled_bricks": "Chiseled Bricks",
+
+  "block.chiseledbricks.dirt_slab": "Dirt Slabs",
+  "block.chiseledbricks.grass_slab": "Grass Slab",
+  "block.chiseledbricks.soul_sand_slab": "Soul Sand Slabs",
+  "block.chiseledbricks.soul_soil_slab": "Soul Soil Slabs",
+
+  "block.chiseledbricks.dirt_stairs": "Dirt Stairs",
+  "block.chiseledbricks.soul_soil_stairs": "Soul Soil Stairs",
+
+  "block.chiseledbricks.dirt_trapdoor": "Dirt Trapdoor",
+  "block.chiseledbricks.dirt_door": "Dirt Door",
+  "block.chiseledbricks.grass_door": "Grass Door"
 }

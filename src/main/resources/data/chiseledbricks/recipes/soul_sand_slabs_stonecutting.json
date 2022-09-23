@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:soul_sand"
+    },
+    "result": "chiseledbricks:soul_sand_slab",
+    "count": 1
+}
