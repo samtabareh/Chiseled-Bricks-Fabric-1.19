@@ -1,8 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:soul_soil"
-    },
-    "result": "chiseledbricks:soul_soil_stairs",
-    "count": 1
-}
